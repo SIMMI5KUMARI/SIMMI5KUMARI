@@ -1,53 +1,84 @@
 <div align="center">
 
-<img src="./cosmic-banner.svg" alt="Simmi — cosmic rose developer universe" width="100%" />
+<img src="./cosmic-banner.svg" width="100%" alt="SIMMI — midnight space and muted rose developer universe" />
 
-### Hi, I'm Simmi ✦
+<br />
 
-**Exploring data, machine learning & the web — one project at a time.**
+<h2>Hi, I'm Simmi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="" /></h2>
 
-<sub>✧ Learning in public &nbsp; · &nbsp; Building with curiosity &nbsp; · &nbsp; Growing with every commit ✧</sub>
+<strong>Developer in progress &nbsp;·&nbsp; Data & AI explorer &nbsp;·&nbsp; Building in public</strong>
 
-<p>
-  <a href="https://github.com/SIMMI5KUMARI?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-242639?style=for-the-badge&logo=github&logoColor=e8dce5" alt="Explore my projects" /></a>
-  <img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC-a97894?style=for-the-badge&logoColor=ffffff" alt="Building in public" />
-</p>
+<p><sub>Turning ideas into projects, one thoughtful commit at a time.</sub></p>
+
+<a href="https://github.com/SIMMI5KUMARI?tab=repositories"><img alt="Explore projects" src="https://img.shields.io/badge/Explore%20Projects-242639?style=for-the-badge&logo=github&logoColor=E8DCE5" /></a>
+<a href="mailto:simmi2kumari@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Get%20in%20Touch-A97894?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
 
 </div>
 
 ---
 
-### ✧ About me
+### ✦ The person behind the code
 
-I'm a curious developer exploring the intersection of **data, code and thoughtful design**. I enjoy learning by doing, building practical projects, and improving them step by step. This profile is a growing record of my journey — genuine progress over perfect numbers.
+I'm an aspiring developer with an interest in **machine learning, data visualization, and web development**. I enjoy understanding how things work, creating practical projects, and making them better with every iteration.
 
-- 🌙 **Exploring:** Python, machine learning, data visualisation and web development
-- 🪐 **Currently focused on:** developing stronger foundations and polishing real projects
-- ✨ **My approach:** experiment, learn, document and keep building
+<table>
+<tr><td>🌙 <b>Currently</b></td><td>Sharpening my fundamentals and improving project quality</td></tr>
+<tr><td>🪐 <b>Exploring</b></td><td>Python · ML · Data visualization · Web development</td></tr>
+<tr><td>✨ <b>Mindset</b></td><td>Learn deeply. Build thoughtfully. Keep evolving.</td></tr>
+</table>
 
-### ✦ My toolkit
+### ✦ Tech constellation
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-242639?style=flat-square&logo=python&logoColor=d3a7bc)
-![HTML5](https://img.shields.io/badge/HTML5-242639?style=flat-square&logo=html5&logoColor=d3a7bc)
-![Tableau](https://img.shields.io/badge/Tableau-242639?style=flat-square&logoColor=d3a7bc)
-![Flask](https://img.shields.io/badge/Flask-242639?style=flat-square&logo=flask&logoColor=d3a7bc)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-242639?style=flat-square&logoColor=d3a7bc)
+<img src="https://img.shields.io/badge/Python-242639?style=for-the-badge&logo=python&logoColor=D3A7BC" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-242639?style=for-the-badge&logo=html5&logoColor=D3A7BC" alt="HTML5" />
+<img src="https://img.shields.io/badge/Flask-242639?style=for-the-badge&logo=flask&logoColor=D3A7BC" alt="Flask" />
+<img src="https://img.shields.io/badge/Tableau-242639?style=for-the-badge&logo=tableau&logoColor=D3A7BC" alt="Tableau" />
+<img src="https://img.shields.io/badge/Machine%20Learning-242639?style=for-the-badge&logoColor=D3A7BC" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/GitHub-242639?style=for-the-badge&logo=github&logoColor=D3A7BC" alt="GitHub" />
 
 </div>
 
-### ✧ Selected work
+### ✦ GitHub at a glance
 
-| Project | Description |
-| :--- | :--- |
-| **[Cardiovascular Disease Dashboard](https://github.com/SIMMI5KUMARI/cardiovascular-disease-dashboard)** | Heart-disease analysis using Tableau, Flask and machine learning |
-| **[ML Diseases Prediction](https://github.com/SIMMI5KUMARI/ML_DISEASES_PREDICTION)** | Exploring disease prediction with machine learning |
-| **[Portfolio](https://github.com/SIMMI5KUMARI/PORTFOLIO)** | A personal web portfolio |
-| **[Tableau 01](https://github.com/SIMMI5KUMARI/TABLEAU_01)** | Group project exploring heart analysis |
-| **[ML Smart Studio](https://github.com/SIMMI5KUMARI/ml_smart_Studio)** | Machine learning project workspace |
+<div align="center">
 
-<sub>My projects reflect what I am learning and will continue to evolve.</sub>
+<img height="160" alt="GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIMMI5KUMARI&theme=radical" />
+<img height="160" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIMMI5KUMARI&theme=radical" />
+
+</div>
+
+### ✦ Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/SIMMI5KUMARI/cardiovascular-disease-dashboard">♡ Cardiovascular Disease Dashboard</a></h4>
+  <p>Visualizing heart-related data with Tableau, Flask and machine learning.</p>
+  <sub>DATA VISUALIZATION · ML</sub>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/SIMMI5KUMARI/ML_DISEASES_PREDICTION">✧ ML Diseases Prediction</a></h4>
+  <p>Exploring disease prediction with machine learning techniques.</p>
+  <sub>PYTHON · MACHINE LEARNING</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/SIMMI5KUMARI/PORTFOLIO">✦ Portfolio</a></h4>
+  <p>A personal web portfolio project, growing alongside my skills.</p>
+  <sub>WEB DEVELOPMENT · HTML</sub>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/SIMMI5KUMARI/TABLEAU_01">☾ Tableau 01</a></h4>
+  <p>A collaborative project exploring heart analysis through data.</p>
+  <sub>TABLEAU · ANALYTICS</sub>
+</td>
+</tr>
+</table>
+
+<div align="center"><sub><a href="https://github.com/SIMMI5KUMARI?tab=repositories">View all repositories</a> &nbsp;·&nbsp; More thoughtful builds are on the way.</sub></div>
 
 ### ✦ Contribution constellation
 
@@ -56,19 +87,15 @@ I'm a curious developer exploring the intersection of **data, code and thoughtfu
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIMMI5KUMARI/SIMMI5KUMARI/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIMMI5KUMARI/SIMMI5KUMARI/output/github-snake.svg" />
-  <img alt="Muted-rose animated contribution snake" src="https://raw.githubusercontent.com/SIMMI5KUMARI/SIMMI5KUMARI/output/github-snake-dark.svg" width="100%" />
+  <img alt="Animated muted-pink contribution snake" src="https://raw.githubusercontent.com/SIMMI5KUMARI/SIMMI5KUMARI/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<sub>Every little square is a step forward ✦</sub>
+<sub>Every contribution counts — this graph grows with my real activity.</sub>
 
-</div>
+<br /><br />
 
 ---
 
-<div align="center">
-
-**Stay curious · Build thoughtfully · Keep evolving**
-
-<sub>✦ Somewhere between code and the cosmos ✦</sub>
+<sub>✦ Somewhere between code and the cosmos. ✦</sub>
 
 </div>
